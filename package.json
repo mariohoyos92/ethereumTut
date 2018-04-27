@@ -1,0 +1,10 @@
+{
+  "name": "ethereumTut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<mariohoyos92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "ethereum/web3.js"
+  }
+}
